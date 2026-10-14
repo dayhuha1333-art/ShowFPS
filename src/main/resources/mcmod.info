@@ -1,0 +1,11 @@
+[
+{
+  "modid": "showfps",
+  "name": "ShowFPS",
+  "description": "Shows FPS in top-left corner.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "authorList": ["YourName"],
+  "dependencies": []
+}
+]
